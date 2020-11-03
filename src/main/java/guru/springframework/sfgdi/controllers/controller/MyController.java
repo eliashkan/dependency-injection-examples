@@ -1,4 +1,4 @@
-package com.realdolmen.dependencyinjectionexamples.controller;
+package guru.springframework.sfgdi.controllers.controller;
 
 import org.springframework.stereotype.Controller;
 
