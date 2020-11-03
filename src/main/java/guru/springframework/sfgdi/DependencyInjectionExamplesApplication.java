@@ -16,6 +16,7 @@ public class DependencyInjectionExamplesApplication {
         System.out.println(":: Profile based injection ::");
         System.out.println(i18nController.sayHello());
 
+
         MyController myController = (MyController) ctx.getBean("myController");
 
         System.out.println(":: Primary Bean ::");
