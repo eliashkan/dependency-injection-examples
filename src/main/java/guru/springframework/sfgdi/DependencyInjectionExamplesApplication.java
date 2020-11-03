@@ -1,6 +1,6 @@
-package com.realdolmen.dependencyinjectionexamples;
+package guru.springframework.sfgdi;
 
-import com.realdolmen.dependencyinjectionexamples.controller.MyController;
+import guru.springframework.sfgdi.controllers.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
