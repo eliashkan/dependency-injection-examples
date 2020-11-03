@@ -1,41 +1,27 @@
 
-                                                 o-
-                                                yMN:
-                                              `dMMMM+
-                                             .mMMMMMMs
-                                            :NMMMMMMMMh`
-                                           /MMMMMMMMMMMd.
-                                          oMMMMMMMMMMMMMN-
-                                        `yMMMMMMMMMMMMMMMN:
-                                       `dMMMMMMMMMMMMMMMMMM+
-                                      .mMMMMMMMMMMMMMMMMMMMMs
-                                     :NMMMMMMMMMMMMMMMMMMMMMMh`
-                                    +MMMMMMMMMMMMMMMMMMMMMMMMMd.
-                                   oMMMMMMMMMMMMMMMMMMMMMMMMMMMN-
-                                 `yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/
-                                `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-                               .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs
-                              :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh`
-                             +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd.
-                            sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-
-                          `yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/
-                         `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMM+
-                        -mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN` hMMMMMMMs
-                       :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs  mMMMMMMMMh`
-                      +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. +MMMMMMMMMMd.
-                     sMMMMMMMMMMMNhyydMMMMhyhMMNhydMMMhyhMMMMMs .NMhshMMMMMMMN-
-                   `yMMMMMMMMMMd:`/y: /MMN:  mo`:` my.:  oMMMN` hMMo  hMMMMMMMN/
-                  `dMMMMMMMMMM+ `dMN- /MMN. :-+Nm`.:+Ny `dMMM/ +Nh/ .sMMMMMMMMMMo
-                 -mMMMMMMMMMM+  sy/`-sMMM+  :mMN. .hMy `hMMMy  -`+ymMMMMMMMMMMMMMs
-                :NMMMMMMMMMMM` -yydNMMMMs  yMMN. :NMm  yMMMd  s. /MMMMMMMMMMMMMMMMh`
-               +MMMMMMMMMMMMM+ `shs/`yMy  yMMM- :MMMy  o+Nd` sMm- .oohMMMMMMMMMMMMMm.
-              sMMMMMMMMMMMMMMMdsoosyNMMdohMMMMyoNMMMMyosmMmoyMMMMhoohMMMMMMMMMMMMMMMN-
-            `hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/
-           `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo
-          -mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy
-         :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh`
-        +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.
-       sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-
-      /yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys`
 
+${Ansi.GREEN}               `.-::\\\\\\::-.`
+${Ansi.GREEN}           `-/++++++++++++++++++/-.
+${Ansi.GREEN}        `-/+++++++++++++++++++++++++:`
+${Ansi.GREEN}      `:++++++++++++++++++++++++++++++:`
+${Ansi.GREEN}     :++++++++++++++++++++++++++++++++++:
+${Ansi.GREEN}   `/+++++++++++++++++++++++++++++++:++++/`
+${Ansi.GREEN}  `+++++++++++++++++++++++++++++++:` /+++++.                                .:
+${Ansi.GREEN} `/++++++++++++++++++++++++++++:.    .++++++`                               `-
+${Ansi.GREEN} :++++++++++++++/:::::::::--.`       `++++++:      :o++++-  ++/+++:   +--\\ -/  ./-/++/`   .:\\:::-
+${Ansi.GREEN} +++++++++++/-`                       /++++++`    `y:       y/   .y:  y+-`  /s  :y.` `+s  :y.  .y:`
+${Ansi.GREEN}.++++++++++-                     .    /++++++.     -++++/.  y:    o+  y-    /s  :y    -y` /s`  .y-
+${Ansi.GREEN}.+++++++++-                    `-`    /++++++-          +o  y:   `y: `y-    /s  :y    -y   /s///-
+${Ansi.GREEN}`+++++++++                   .:-     `+++++++.    `+++++o-  yo//+o/  `y-    +o  /s    :y   +o:::-`
+${Ansi.GREEN} +++++++++                .:/-`      :+++++++               y- `             `  ``    `.  /o....:y.
+${Ansi.GREEN} -++++++++:        ``.-:/+:.        -+++++++-              `y-                            +o.``./y.
+${Ansi.GREEN}  /+++++/--/::://++++/:-`         ./+++++++/                                               .::::-`
+${Ansi.GREEN}   /++++   .++//::-..`````````.-:+++++++++/`
+${Ansi.GREEN}    :+++/::++++++++++++++++++++++++++++++:
+${Ansi.GREEN}     ./+++++++++++++++++++++++++++++++++.
+${Ansi.GREEN}       -/++++++++++++++++++++++++++++/-
+${Ansi.GREEN}         .:++++++++++++++++++++++++:.
+${Ansi.GREEN}            .-:++++++++++++++++/-.
+${Ansi.GREEN}                ``.---::---.``
 
+${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
