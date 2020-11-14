@@ -1,6 +1,5 @@
 package guru.springframework.sfgdi;
 
-import guru.springframework.sfgdi.controllers.*;
 import guru.springframework.sfgdi.examplebeans.FakeDataSource;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,7 +12,7 @@ public class DependencyInjectionExamplesApplication {
         ConfigurableApplicationContext ctx =
                 SpringApplication.run(DependencyInjectionExamplesApplication.class, args);
 
-        FakeDataSource source = (FakeDataSource) ctx.getBean(FakeDataSource.class);
+        FakeDataSource source = ctx.getBean(FakeDataSource.class);
 
         System.out.println(source.getUser());
         System.out.println(source.getPassword());
